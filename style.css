@@ -1,0 +1,534 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.dark-background {
+    background-color: #0b0b0b;
+}
+
+.bulb-image {
+    width: 150px;
+}
+
+.cat-image {
+    width: 300px;
+}
+
+.switch-board {
+    background-color: #7b8794;
+    width: 294px;
+    height: 139px;
+    border-radius: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    margin: 16px;
+}
+
+.switch-status {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 24px;
+}
+
+.on-switch {
+    color: #ffffff;
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+    width: 99px;
+    height: 44px;
+    border-radius: 8px;
+    margin-left: 16px;
+}
+
+.off-switch {
+    color: #ffffff;
+    background-color: #e12d39;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+    width: 99px;
+    height: 44px;
+    border-radius: 8px;
+}
+
+
+
+
+
+.bg-container {
+    background-color: #f1f5f8;
+    height: 100vh;
+}
+
+.counter-heading {
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.counter-value {
+    font-size: 75px;
+    font-weight: 900;
+}
+
+.button {
+    background-color: #f1f5f8;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 7px;
+    margin: 8px;
+    padding: 5px;
+}
+
+.Backgroundcolor {
+    background-color: #ffffff;
+    height: 100vh;
+}
+
+.heading {
+    text-align: center;
+    padding-top: 100px;
+    color: #222222;
+    padding-bottom: 20px;
+}
+
+.buttonContainer {
+    text-align: center;
+}
+
+#button1,
+#button2,
+#button3,
+#button4 {
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    padding: 20px 10px;
+    border-width: 3px;
+    border-color: #222222;
+}
+
+#button2 {
+    background-color: #6fcf97;
+}
+
+#button3 {
+    background-color: #56ccf2;
+}
+
+#button4 {
+    background-color: #bb6bd9;
+}
+
+.para-1 {
+    background-color: #222222;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 15px;
+    font-size: 20px;
+}
+
+#colorchange {
+    color: #49a6e9;
+}
+
+.para-2 {
+    text-align: center;
+    padding: 10px;
+}
+
+
+.background-container {
+    background-color: #86d2f2;
+    height: 100vh;
+    font-family: Roboto;
+}
+
+.lightHeading {
+    color: #1f1d41;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.container {
+    padding: 50px;
+    margin-bottom: 50px;
+}
+
+.Traffic {
+    background-color: #1f1d41;
+    border-radius: 60px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+#stopButton,
+#readyButton,
+#goButton {
+    background-color: #1f1d41;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 50px;
+}
+
+#readyButton {
+    padding: 10px 20px;
+}
+
+#stopButton {
+    padding: 10px 25px;
+}
+
+#goButton {
+    padding: 10px 35px;
+}
+
+#stopLight,
+#readyLight,
+#goLight {
+    background-color: #4b5069;
+    padding: 40px;
+    margin: 40px;
+    border-radius: 100%;
+}
+
+
+.season-image {
+    width: 100%;
+    height: 85vh;
+    margin-top: 50px;
+}
+
+.buttonclimate {
+    color: white;
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-size: 14px;
+    width: 80px;
+    height: 32px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.spring-button {
+    background-color: #3a7333;
+}
+
+.summer-button {
+    background-color: #e0bb00;
+}
+
+.autumn-button {
+    background-color: #b04400;
+}
+
+.winter-button {
+    background-color: #0f7cb6;
+}
+
+
+
+
+
+
+.puppy-image {
+    width: 100%;
+    margin-top: 60px;
+}
+
+.like-icon {
+    color: #cbd2d9;
+    font-size: 40px;
+}
+
+.like-button {
+    color: #9aa5b1;
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-size: 14px;
+    width: 100px;
+    height: 40px;
+    border-width: 0;
+    border-radius: 8px;
+}
+
+
+
+
+.tip-calculator-container {
+    background-color: #f9fbfe;
+    margin-top: 50px;
+}
+
+.tip-calculator-image {
+    width: 100%;
+}
+
+.tip-calculator-heading {
+    color: #264fa2;
+    font-family: "Roboto";
+    font-size: 48px;
+    font-weight: 500;
+}
+
+.input-label {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.user-input {
+    height: 40px;
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cbd2d9;
+    border-radius: 4px;
+    padding-left: 12px;
+}
+
+.calculate-tip-button {
+    background-color: #264fa2;
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+    border-radius: 4px;
+}
+
+.error-message {
+    color: #cf1124;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+
+
+
+
+.bg-container {
+    background-color: #f5f7fa;
+    margin-top: 50px;
+}
+
+.sizing-an-image-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 48px;
+    font-weight: 500;
+}
+
+.sizing-an-image-description {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.warning-message {
+    color: #cf1124;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.image-width {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.buttons-container {
+    background-color: white;
+    width: 140px;
+}
+
+.button {
+    color: #323f4b;
+    background-color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 700;
+    width: 35%;
+    height: 50px;
+    border-width: 0;
+}
+
+.hr-line {
+    background-color: black;
+    width: 1px;
+    height: 20px;
+}
+
+.width-in-px {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 700;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+.imageadd {
+    width: 360px;
+    height: 280px;
+    margin-top: 50px;
+}
+
+.bg-container-add {
+    background-color: #f5f7fa;
+}
+
+.number {
+    color: #323f4b;
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 8px;
+    border-color: #e4e7eb;
+    border-radius: 12px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.operator {
+    color: #c4c4c4;
+    font-family: "Roboto";
+    font-size: 40px;
+}
+
+.user-input-add {
+    text-align: center;
+    color: #323f4b;
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    width: 142px;
+    height: 60px;
+    border-style: solid;
+    border-width: 8px;
+    border-color: #e4e7eb;
+    border-radius: 12px;
+    margin: 20px;
+}
+
+.game-result {
+    color: #ffffff;
+    background-color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+}
+
+
+
+
+
+.instruction {
+    font-family: "Open Sans";
+}
+
+.button-random {
+    color: white;
+    background-color: #0967d2;
+    width: 150px;
+    height: 40px;
+    border-width: 0;
+    border-radius: 25px;
+    margin: 15px;
+}
+
+.bg-container-random {
+    height: 100vh;
+}
+
+
+
+
+
+
+.chatbot-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.image-bot {
+    width: 150px;
+}
+
+.chat-container-bot {
+    padding: 10px;
+}
+
+.msg-to-chatbot-container {
+    text-align: right;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.msg-to-chatbot {
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-weight: 900;
+    border-radius: 16px;
+    padding: 10px;
+}
+
+.msg-from-chatbot-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.msg-from-chatbot {
+    color: white;
+    background-color: #e57742;
+    font-family: "Roboto";
+    font-weight: 900;
+    border-radius: 16px;
+    padding: 10px;
+}
+
+.user-input-bot {
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-weight: 900;
+    height: 52px;
+    border-width: 0;
+    border-radius: 5px;
+    margin: 8px;
+    padding: 15px;
+}
+
+.send-msg-btn-bot {
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    height: 52px;
+    border-width: 0;
+    border-radius: 10px;
+    margin: 8px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
